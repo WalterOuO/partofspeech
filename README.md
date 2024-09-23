@@ -5,7 +5,7 @@ The remaining 5 pos is Noun, Pronoun, Verb, Adjective, Adverb.
 這是一個基於CKIP Lab推出之CKIP Transformers所建立的繁體中文詞性分析系統，我們將CKIP Lab列出的詞性種類從62種整併至5種以聚焦在五種最常見的詞性，分別是名詞、代名詞、動詞、形容詞、副詞。
 
 ### Demo video
-<video></video>
+<video src='https://youtu.be/bEShvcKCTjo'></video>
 
 ### Part of Speech tag Conversion
 Adjust from: https://ckip-transformers.readthedocs.io/en/stable/main/tag.html  
