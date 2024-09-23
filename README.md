@@ -354,6 +354,6 @@ This is a table to map 62 kinds of pos to 5 kinds of pos, which can be tunned by
 
 ## How to use the code 
 Main code: [zh_TW_pos.ipynb](https://github.com/WalterOuO/partofspeech/blob/main/zh_TW_pos.ipynb)  
-Package for Mode 1: [tool.py](https://github.com/walterouo/partofspeech/tool.py)
+Package for Mode 1: [tool.py](https://github.com/WalterOuO/partofspeech/blob/main/tool.py)
 
 Switch the Input path and Output path in Main code and package for your use. 
