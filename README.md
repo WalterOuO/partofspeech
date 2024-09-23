@@ -353,7 +353,7 @@ This is a table to map 62 kinds of pos to 5 kinds of pos, which can be tunned by
 2. 「我是認為是這樣子的」：這邊的「是」不計入五種詞性。
 
 ## How to use the code 
-Main code: https://github.com/walterouo/partofspeech/zh_TW_pos.ipynb  
-Package for Mode 1: https://github.com/walterouo/partofspeech/tool.py
+Main code: [zh_TW_pos.ipynb](https://github.com/WalterOuO/partofspeech/blob/main/zh_TW_pos.ipynb)  
+Package for Mode 1: [tool.py](https://github.com/walterouo/partofspeech/tool.py)
 
 Switch the Input path and Output path in Main code and package for your use. 
