@@ -24,7 +24,7 @@ In the end, system will analyze total count and total proportion of each part of
 
 ## Part of Speech Tag Conversion
 Adjust from: https://ckip-transformers.readthedocs.io/en/stable/main/tag.html  
-This is a table to map 62 kinds of pos to 5 kinds of pos, which can be tunned by personal used.  
+This is a table to map 62 kinds of pos to 5 kinds of pos, which can be tunned by personal use.  
 <table>
   <tr>
     <td>Tag</td>
